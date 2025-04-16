@@ -19,3 +19,9 @@ Author - Vivek rai
 
 If you want to make a folder and then you have to push that folder on github for that add and commit is done then write one more code before writing push code 
 the code is "git remote add origin <link>"
+
+for new branch we have to write git checkout -b "nameof branch you made"
+
+if we want to delete a branch then write git branch -d feature1
+
+if we want to switch the branch then write git checkout" other branch name written here"
