@@ -25,3 +25,14 @@ for new branch we have to write git checkout -b "nameof branch you made"
 if we want to delete a branch then write git branch -d feature1
 
 if we want to switch the branch then write git checkout" other branch name written here"
+
+# Merging code 
+way 1
+
+git diff<-Branch name->
+
+git merge<-branch name->
+
+Way 2
+
+Create a PR 
